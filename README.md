@@ -1,17 +1,17 @@
 # mywebsites
 <br>
-<a>vssutrobotics.in</a>
+<a href="http://www.vssutrobotics.in">vssutrobotics.in</a>
 <br>
-<a>
+<a href="http://www.vssutrobotics.in/event.html">
 vssutrobotics.in/event.html
 </a>
 <br>
-<a>
+<a href="http://www.onestopalltech.design">
 onestopalltech.design
   </a>
 <br>
-<a>
+<a href="http://www.educarevssut.wordpress.com">
 educarevssut.wordpress.com
 </a>
 <br>
-<a>
+<a href="http://www.>
